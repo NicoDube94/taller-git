@@ -1,1 +1,0 @@
-Soy el archivo2 y vengo a ver el commit de git
